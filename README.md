@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sajaldey
-- 👀 I’m interested in Data Science
+# Hi, I’m Sajal Dey and a Data Science Enthusiast 
+
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on data driven decision making analysis
 - 📫 How to reach me sajal.analytics@gmail.com
