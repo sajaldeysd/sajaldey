@@ -5,6 +5,8 @@
 - 📫 How to reach me sajal.analytics@gmail.com
 - ⚡ Fun fact: I speak several languages, English, German, Bengali, Hindi, Urdu
 - [Dey, Sajal.pdf](https://github.com/user-attachments/files/20575842/Dey.Sajal.pdf)
+- [Dey, Sajal.pdf](https://github.com/user-attachments/files/20578437/Dey.Sajal.pdf)
+
 
 
 <!---
