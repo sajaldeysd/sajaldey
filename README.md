@@ -23,7 +23,7 @@ I'm a data driven Business Intelligence Analyst with a proven track record in pr
 
  o	📐 Predictive Analytics
 
-• Develop data models, write complex SQL queries, and conduct storytelling with data
+• Develop data models, write complex SQL queries, reporting and conduct storytelling with data
 
 # 🎯 Focus Areas
 •	Customer & Revenue Analytics
