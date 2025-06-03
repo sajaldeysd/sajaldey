@@ -1,9 +1,55 @@
 # Hi, I’m Sajal - Data & Business Intelligence Analyst
 
-I'm a results-oriented Data & BI Analyst with a strong background in sales, customer success, and financial support across Europe and American markets. I specialize in transforming business data into meaningful insights using Power BI, SQL, and Excel.
+I'm a data driven Business Intelligence Analyst with a proven track record in projects, sales, customer success, and financial operations across European and American markets. Skilled in Power BI, SQL, and Excel, I translate complex data into actionable business insights.
 
 [Dey, Sajal.pdf](https://github.com/user-attachments/files/20575842/Dey.Sajal.pdf) (German)
-[Dey, Sajal.pdf](https://github.com/user-attachments/files/20578437/Dey.Sajal.pdf)(Eng)
+
+[Dey, Sajal.pdf](https://github.com/user-attachments/files/20578437/Dey.Sajal.pdf) (Eng)
+
+# 🔍 What I Do
+•	Built interactive dashboards in Power BI to visualize key business metrics
+
+•	Analyzed patterns in customer behavior, revenue performance, and operational efficiency to provide actionable insights that drive strategic business decisions.
+
+•	Perform advanced analytics including:
+ 
+ o	📊 RFM Segmentation
+ 
+ o	📈 Cohort Analysis
+
+ o	🔄 Churn Prediction
+
+ o	🕵️ Root Cause Analysis
+
+ o	📐 Predictive Analytics
+
+• Develop data models, write complex SQL queries, and conduct storytelling with data
+
+# 🎯 Focus Areas
+•	Customer & Revenue Analytics
+
+•	Data Visualization & Storytelling
+
+•	Business Performance Optimization
+
+•	Data-Driven Strategy Development
+
+# ⚙️ Tools & Technologies
+
+•	Power BI
+
+•	MySQL
+
+•	DAX
+
+•	Excel (Power Query, Pivot Table)
+
+•	GitHub
+
+•	PowerPoint for BI reporting and presentations
+
+
+
 
 
 
