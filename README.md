@@ -1,12 +1,9 @@
-# Hi, I’m Sajal Dey and a Data Science Enthusiast 
+# Hi, I’m Sajal - Data & Business Intelligence Analyst
 
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on data driven decision making analysis
-- ✨ I'm proficient in MySQL, Python, R & Microsoft Office
-- 📫 How to reach me sajal.analytics@gmail.com
-- ⚡ Fun fact: I speak several languages, English, German, Bengali, Hindi, Urdu
-- [Dey, Sajal.pdf](https://github.com/user-attachments/files/20575842/Dey.Sajal.pdf) (German)
-- [Dey, Sajal.pdf](https://github.com/user-attachments/files/20578437/Dey.Sajal.pdf)(Eng)
+I'm a results-oriented Data & BI Analyst with a strong background in sales, customer success, and financial support across Europe and American markets. I specialize in transforming business data into meaningful insights using Power BI, SQL, and Excel.
+
+[Dey, Sajal.pdf](https://github.com/user-attachments/files/20575842/Dey.Sajal.pdf) (German)
+[Dey, Sajal.pdf](https://github.com/user-attachments/files/20578437/Dey.Sajal.pdf)(Eng)
 
 
 
